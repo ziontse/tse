@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Tse15'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35CEA5410021431E91F17BA9CD74B77E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_223C172B4EBD4F5EB13F0438091C2456 }}
           package: '*.jar'
